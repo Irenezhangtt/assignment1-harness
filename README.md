@@ -1,6 +1,6 @@
 # CS329Z Assignment 1: Building an Agentic Harness
 
-This is the starter repository for Assignment 1.
+This is the starter repository for Assignment 1. Course Slides: https://cs329z.stanford.edu/
 
 **Start by reading the handout, [`cs329z_assignment1_harness.pdf`](cs329z_assignment1_harness.pdf), in this directory.**
 It states every problem, what is graded, and the design decisions that
